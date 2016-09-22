@@ -9,8 +9,8 @@ Jinwoo's list of Computer Vision and Machine Learning papers
 ## Computer Vision
 
 #### Action Proposal
-* [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
-
+* [Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.pdf), - F. Heilbron et al, CVPR2016. [[code]](https://github.com/cabaf/sparseprop) 
+* [APT: Action localization proposals from dense trajectories](http://jvgemert.github.io/pub/gemertBMVC15APTactionProposals.pdf) - J. Gemert et al, BMVC2015. [[code]](https://github.com/jvgemert/apt)
 
 
 
