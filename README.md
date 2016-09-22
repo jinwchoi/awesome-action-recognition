@@ -8,6 +8,8 @@ Jinwoo's list of Computer Vision and Machine Learning papers and codes
 ## Action Recognition
 
 #### Action Proposal
+* [Spot On: Action Localization from Pointly-Supervised Proposals](http://jvgemert.github.io/pub/spotOnECCV16.pdf) - P. Mettes et al, ECCV2016.
+* [Online Action Detection using Joint Classification-Regression Recurrent Neural Networks]() - C. Lan et al, ECCV2016.
 * [Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.pdf), - F. Heilbron et al, CVPR2016. [[code]](https://github.com/cabaf/sparseprop) 
 * [Actionness Estimation Using Hybrid Fully Convolutional Networks](https://arxiv.org/abs/1604.07279) - L. Wang et al, CVPR2016. [[code]](https://github.com/wanglimin/actionness-estimation/)
 * [Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs](http://dvmmweb.cs.columbia.edu/files/dvmm_scnn_paper.pdf) - Z. Shou et al, CVPR2016. [[code]](https://github.com/zhengshou/scnn)
@@ -16,5 +18,9 @@ Jinwoo's list of Computer Vision and Machine Learning papers and codes
 * [Fast Action Proposals for Human Action Detection and Search](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yu_Fast_Action_Proposals_2015_CVPR_paper.pdf) - G. Yu and Junsong Yuan, CVPR2015.
 * [Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mettes15icmr.pdf), - P. Mettes et al, ICML2015.
 * [Spatio-Temporal Object Detection Proposals](https://hal.inria.fr/hal-01021902/PDF/proof.pdf) - D. Oneata et al, ECCV2014. [[code]](https://bitbucket.org/doneata/proposals)
+ 
+### Action Classification
+* [Actionness Estimation Using Hybrid Fully Convolutional Networks](http://wanglimin.github.io/papers/WangQTV_CVPR16.pdf) - L. Wang et al, CVPR2016, [[code]](https://github.com/wanglimin/actionness-estimation/)
+* 
 
 
