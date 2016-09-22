@@ -6,7 +6,9 @@ Jinwoo's list of Computer Vision and Machine Learning papers
  - [Computer Vison](#cv)
  - [Machine Learning](#ml)
 
-#### Computer Vision
+## Computer Vision
+
+#### Action Proposal
 * [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) - Simon J. D. Prince 2012
 
 #### Machine Learning
