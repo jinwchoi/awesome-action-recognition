@@ -18,3 +18,12 @@ Jinwoo's list of Computer Vision and Machine Learning papers and codes
 * [Fast Action Proposals for Human Action Detection and Search](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yu_Fast_Action_Proposals_2015_CVPR_paper.pdf) - G. Yu and Junsong Yuan, CVPR2015.
 * [Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mettes15icmr.pdf), - P. Mettes et al, ICMR2015.
 * [Spatio-Temporal Object Detection Proposals](https://hal.inria.fr/hal-01021902/PDF/proof.pdf) - D. Oneata et al, ECCV2014. [[code]](https://bitbucket.org/doneata/proposals)
+
+#### Action Recognition Datasets
+* [ActivityNet](http://activity-net.org/)
+* [Charades](http://allenai.org/plato/charades/)
+* [THUMOS15](http://www.thumos.info/home.html)
+* [THUMOS14](http://crcv.ucf.edu/THUMOS14/)
+* [HOLLYWOOD2](http://www.di.ens.fr/~laptev/actions/hollywood2/)
+* [UCF-101](http://crcv.ucf.edu/data/UCF101.php)
+* [HMDB](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
