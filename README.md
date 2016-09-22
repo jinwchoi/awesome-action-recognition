@@ -9,7 +9,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers and codes
 
 #### Action Proposal
 * [Spot On: Action Localization from Pointly-Supervised Proposals](http://jvgemert.github.io/pub/spotOnECCV16.pdf) - P. Mettes et al, ECCV2016.
-* [Online Action Detection using Joint Classification-Regression Recurrent Neural Networks]() - C. Lan et al, ECCV2016.
+* [Online Action Detection using Joint Classification-Regression Recurrent Neural Networks]() - Y, Li et al, ECCV2016.
 * [Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.pdf), - F. Heilbron et al, CVPR2016. [[code]](https://github.com/cabaf/sparseprop) 
 * [Actionness Estimation Using Hybrid Fully Convolutional Networks](https://arxiv.org/abs/1604.07279) - L. Wang et al, CVPR2016. [[code]](https://github.com/wanglimin/actionness-estimation/)
 * [Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs](http://dvmmweb.cs.columbia.edu/files/dvmm_scnn_paper.pdf) - Z. Shou et al, CVPR2016. [[code]](https://github.com/zhengshou/scnn)
