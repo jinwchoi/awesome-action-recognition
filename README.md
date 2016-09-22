@@ -3,22 +3,16 @@ Jinwoo's list of Computer Vision and Machine Learning papers
 
 ## Table of Contents
 
- - [Computer Vison](#cv)
- - [Machine Learning](#ml)
+ - [Action Recognition](#ar)
 
-## Computer Vision
+## Action Recognition
 
 #### Action Proposal
 * [Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.pdf), - F. Heilbron et al, CVPR2016. [[code]](https://github.com/cabaf/sparseprop) 
 * [APT: Action localization proposals from dense trajectories](http://jvgemert.github.io/pub/gemertBMVC15APTactionProposals.pdf) - J. Gemert et al, BMVC2015. [[code]](https://github.com/jvgemert/apt)
+* [Actionness Estimation Using Hybrid Fully Convolutional Networks](https://github.com/wanglimin/actionness-estimation/) - L. Wang et al, CVPR2016. [[code]](https://github.com/wanglimin/actionness-estimation/)
+* [DAPs: Deep Action Proposals for Action Understanding](https://ivul.kaust.edu.sa/Documents/Publications/2016/DAPs%20Deep%20Action%20Proposals%20for%20Action%20Understanding.pdf) - V. Escorcia et al, ECCV2016. [[code coming soon]](http://escorciav.github.io/#cvDaps2016)
+* [Fast Action Proposals for Human Action Detection and Search](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yu_Fast_Action_Proposals_2015_CVPR_paper.pdf) - G. Yu and Junsong Yuan, CVPR2015.
+* [Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mettes15icmr.pdf), - P. Mettes et al, ICML2015.
+* [Spatio-Temporal Object Detection Proposals](https://hal.inria.fr/hal-01021902/PDF/proof.pdf) - D. Oneata et al, ECCV2014. [[code]](https://bitbucket.org/doneata/proposals)
 
-
-
-
-
-
-
-## Machine Learning
-
-#### Transfer Learning
-* [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/index.htm) - Christopher M. Bishop 2007
