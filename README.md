@@ -21,6 +21,4 @@ Jinwoo's list of Computer Vision and Machine Learning papers and codes
  
 ### Action Classification
 * [Actionness Estimation Using Hybrid Fully Convolutional Networks](http://wanglimin.github.io/papers/WangQTV_CVPR16.pdf) - L. Wang et al, CVPR2016, [[code]](https://github.com/wanglimin/actionness-estimation/)
-* 
-
 
