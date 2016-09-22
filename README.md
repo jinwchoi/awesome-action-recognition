@@ -27,7 +27,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](http://wanglimin.github.io/papers/WangXWQLTV_ECCV16.pdf) - L. Wang et al, ECCV2016. [[code]](https://github.com/yjxiong/temporal-segment-networks)
 * [Two-Stream SR-CNNs for Action Recognition in Videos](http://wanglimin.github.io/papers/ZhangWWQW_CVPR16.pdf) - L. Wang et al, BMVC2016. [[code]]()
 * [Real-time Action Recognition with Enhanced Motion Vector CNNs]() - B. Zhang et al, CVPR2016. [[code]](https://github.com/zbwglory/MV-release)
-* [Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors] - L. Wang et al, CVPR2015. [[code]](https://github.com/wanglimin/TDD)
+* [Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf) - L. Wang et al, CVPR2015. [[code]](https://github.com/wanglimin/TDD)
 
 ### Miscellaneous
 * [Slicing Convolutional Neural Network for Crowd Video Understanding](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf) - J. Shao et al, CVPR2016. [[code]](https://github.com/amandajshao/Slicing-CNN)
