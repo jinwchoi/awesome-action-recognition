@@ -18,7 +18,3 @@ Jinwoo's list of Computer Vision and Machine Learning papers and codes
 * [Fast Action Proposals for Human Action Detection and Search](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yu_Fast_Action_Proposals_2015_CVPR_paper.pdf) - G. Yu and Junsong Yuan, CVPR2015.
 * [Bag-of-fragments: Selecting and encoding video fragments for event detection and recounting](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mettes15icmr.pdf), - P. Mettes et al, ICMR2015.
 * [Spatio-Temporal Object Detection Proposals](https://hal.inria.fr/hal-01021902/PDF/proof.pdf) - D. Oneata et al, ECCV2014. [[code]](https://bitbucket.org/doneata/proposals)
- 
-### Action Classification
-* [Actionness Estimation Using Hybrid Fully Convolutional Networks](http://wanglimin.github.io/papers/WangQTV_CVPR16.pdf) - L. Wang et al, CVPR2016, [[code]](https://github.com/wanglimin/actionness-estimation/)
-
