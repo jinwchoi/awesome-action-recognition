@@ -47,3 +47,4 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [UCF-101](http://crcv.ucf.edu/data/UCF101.php)
 * [HMDB](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 * [KTH](http://www.nada.kth.se/cvap/actions/)
+* [MSR](http://research.microsoft.com/en-us/um/people/zliu/ActionRecoRsrc/)
