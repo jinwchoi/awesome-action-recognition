@@ -40,7 +40,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [Learning Spatiotemporal Features with 3D Convolutional Networks](http://vlg.cs.dartmouth.edu/c3d/c3d_video.pdf) - D. Tran et al, ICCV2015. [[code]](https://github.com/facebook/C3D) [[project web]](http://vlg.cs.dartmouth.edu/c3d/) Note: Aka C3D.
 
 ### Action Recognition Datasets
-* [ActivityNet](http://activity-net.org/) [GitHub](https://github.com/activitynet) Note: They provide a download script and evaluation code here.
+* [ActivityNet](http://activity-net.org/) [[GitHub]](https://github.com/activitynet) Note: They provide a download script and evaluation code here.
 * [Charades](http://allenai.org/plato/charades/)
 * [THUMOS15](http://www.thumos.info/home.html) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset.
 * [THUMOS14](http://crcv.ucf.edu/THUMOS14/) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset. 
