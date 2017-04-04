@@ -50,10 +50,10 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 ### Action Recognition Datasets
 * [ActivityNet](http://activity-net.org/) Note: They provide a download script and evaluation code [here](https://github.com/activitynet) .
 * [Charades](http://allenai.org/plato/charades/)
-* [THUMOS15](http://www.thumos.info/home.html) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset.
 * [THUMOS14](http://crcv.ucf.edu/THUMOS14/) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset. 
+* [THUMOS15](http://www.thumos.info/home.html) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset.
 * [HOLLYWOOD2](http://www.di.ens.fr/~laptev/actions/hollywood2/)
-* [UCF-101](http://crcv.ucf.edu/data/UCF101.php)
+* [UCF-101](http://crcv.ucf.edu/data/UCF101.php) and its variants: UCF-Sports, UCF-50, etc
 * [HMDB](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 * [KTH](http://www.nada.kth.se/cvap/actions/)
 * [MSR Action](http://research.microsoft.com/en-us/um/people/zliu/ActionRecoRsrc/) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
