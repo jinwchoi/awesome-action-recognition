@@ -1,4 +1,4 @@
-# Computer Vision and Machine Learing papers and codes
+# Jinwoo's list of Computer Vision and Machine Learing papers, codes, and project webpages.
 
 Jinwoo's list of Computer Vision and Machine Learning papers, codes, project webs and others.
 
