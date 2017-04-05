@@ -66,3 +66,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [MSR Action](http://research.microsoft.com/en-us/um/people/zliu/ActionRecoRsrc/) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
 * [Sports-1M](http://cs.stanford.edu/people/karpathy/deepvideo/classes.html)
 * [YouTube-8M](https://research.google.com/youtube8m/)
+
+### Video Annotation
+* [Efficiently scaling up crowdsourced video annotation](http://cvrr.ucsd.edu/ece285/Spring2014/papers/Vondrick_IJCV2013.pdf) - C. Vondrick et. al, IJCV2013. [[code]](https://github.com/cvondrick/vatic)
+* [The Design and Implementation of ViPER](https://www.cs.umd.edu/grad/scholarlypapers/papers/davidm-viper.pdf) - D. Mihalcik and D. Doermann, Technical report.
