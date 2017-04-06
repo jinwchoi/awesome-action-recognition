@@ -64,7 +64,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [HMDB](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 * [J-HMDB](http://jhmdb.is.tue.mpg.de/)
 * [KTH](http://www.nada.kth.se/cvap/actions/)
-* [MSR Action](http://research.microsoft.com/en-us/um/people/zliu/ActionRecoRsrc/) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
+* [MSR Action](https://www.microsoft.com/en-us/download/details.aspx?id=52315) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
 * [Sports-1M](http://cs.stanford.edu/people/karpathy/deepvideo/classes.html)
 * [YouTube-8M](https://research.google.com/youtube8m/)
 
