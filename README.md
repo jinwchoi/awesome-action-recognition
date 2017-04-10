@@ -63,6 +63,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [UCF-101](http://crcv.ucf.edu/data/UCF101.php) and [UCF-101 corrected annotations](https://github.com/gurkirt/corrected-UCF101-Annots), [UCF-Sports](http://crcv.ucf.edu/data/UCF_Sports_Action.php), [UCF-50](http://crcv.ucf.edu/data/UCF50.php)
 * [HMDB](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 * [J-HMDB](http://jhmdb.is.tue.mpg.de/)
+* [LIRIS-HARL](http://liris.cnrs.fr/voir/activities-dataset/)
 * [KTH](http://www.nada.kth.se/cvap/actions/)
 * [MSR Action](https://www.microsoft.com/en-us/download/details.aspx?id=52315) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
 * [Sports-1M](http://cs.stanford.edu/people/karpathy/deepvideo/classes.html)
