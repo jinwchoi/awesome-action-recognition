@@ -61,7 +61,9 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [THUMOS14](http://crcv.ucf.edu/THUMOS14/) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset. 
 * [THUMOS15](http://www.thumos.info/home.html) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset.
 * [HOLLYWOOD2](http://www.di.ens.fr/~laptev/actions/hollywood2/): [Spatio-Temporal annotations](https://staff.fnwi.uva.nl/p.s.m.mettes/index.html#data)
-* [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [annotation provided by THUMOS-14](http://crcv.ucf.edu/ICCV13-Action-Workshop/index.files/UCF101_24Action_Detection_Annotations.zip), [UCF-101 corrected annotations](https://github.com/gurkirt/corrected-UCF101-Annots), [different version annotaions](https://github.com/jvgemert/apt), [UCF-Sports](http://crcv.ucf.edu/data/UCF_Sports_Action.php), [UCF-50](http://crcv.ucf.edu/data/UCF50.php)
+* [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [annotation provided by THUMOS-14](http://crcv.ucf.edu/ICCV13-Action-Workshop/index.files/UCF101_24Action_Detection_Annotations.zip) note: the file UCF101_24_Annotations/Biking/v_Biking_g08_c06.xgtf is corrupted,  [UCF-101 corrected annotations](https://github.com/gurkirt/corrected-UCF101-Annots) and [different version annotaions](https://github.com/jvgemert/apt), 
+* [UCF-50](http://crcv.ucf.edu/data/UCF50.php)
+* [UCF-Sports](http://crcv.ucf.edu/data/UCF_Sports_Action.php)
 * [HMDB](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 * [J-HMDB](http://jhmdb.is.tue.mpg.de/)
 * [LIRIS-HARL](http://liris.cnrs.fr/voir/activities-dataset/)
