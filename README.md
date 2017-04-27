@@ -80,6 +80,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [The Design and Implementation of ViPER](https://www.cs.umd.edu/grad/scholarlypapers/papers/davidm-viper.pdf) - D. Mihalcik and D. Doermann, Technical report.
 
 
+
 ## Object Recognition
 
 ### Object Detection
