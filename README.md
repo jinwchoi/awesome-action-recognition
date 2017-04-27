@@ -5,6 +5,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 ## Table of Contents
 
  - [Action Recognition](#ar)
+ - [Object Recognition](#or)
 
 ## Action Recognition
 
@@ -77,3 +78,11 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 ### Video Annotation
 * [Efficiently scaling up crowdsourced video annotation](http://cvrr.ucsd.edu/ece285/Spring2014/papers/Vondrick_IJCV2013.pdf) - C. Vondrick et. al, IJCV2013. [[code]](https://github.com/cvondrick/vatic)
 * [The Design and Implementation of ViPER](https://www.cs.umd.edu/grad/scholarlypapers/papers/davidm-viper.pdf) - D. Mihalcik and D. Doermann, Technical report.
+
+
+## Object Recognition
+
+### Object Detection
+* [Faster R-CNN](https://arxiv.org/abs/1506.01497) - S. Ren et al, NIPS2015. [[official MatCaffe code]](https://github.com/ShaoqingRen/faster_rcnn), [[PyCaffe]](https://github.com/rbgirshick/py-faster-rcnn), [TensorFlow](https://github.com/smallcorgi/Faster-RCNN_TF), [Keras](https://github.com/yhenon/keras-frcnn)
+* [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf) - J. Redmon et al, CVPR2016. [[official code]](https://github.com/pjreddie/darknet.git), [[TensorFLow]](https://github.com/gliese581gg/YOLO_tensorflow)
+* [SSD](https://arxiv.org/abs/1512.02325) - W. Liu et al, ECCV2016. [[official PyCaffe code]](https://github.com/weiliu89/caffe/tree/ssd), [TensorFlow](https://github.com/balancap/SSD-Tensorflow), [[Keras]](https://github.com/rykov8/ssd_keras)
