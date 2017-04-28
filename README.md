@@ -56,6 +56,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 
 ### Miscellaneous
 * [Slicing Convolutional Neural Network for Crowd Video Understanding](http://www.ee.cuhk.edu.hk/~jshao/papers_jshao/jshao_cvpr16_scnn.pdf) - J. Shao et al, CVPR2016. [[code]](https://github.com/amandajshao/Slicing-CNN)
+* [Two-Stream(RGB and Flow) Pretrained Model Weights](https://github.com/craftGBD/caffe-GBD/tree/master/models/action_recognition)
 
 ### Action Recognition Datasets
 * [ActivityNet](http://activity-net.org/) Note: They provide a download script and evaluation code [here](https://github.com/activitynet) .
