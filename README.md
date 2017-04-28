@@ -6,6 +6,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 
  - [Action Recognition](#ar)
  - [Object Recognition](#or)
+ - [Pose Estimation](#pe)
 
 ## Action Recognition
 
@@ -88,3 +89,10 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf) - J. Redmon et al, CVPR2016. [[official code]](https://github.com/pjreddie/darknet.git), [[TensorFLow]](https://github.com/gliese581gg/YOLO_tensorflow)
 * [SSD](https://arxiv.org/abs/1512.02325) - W. Liu et al, ECCV2016. [[official PyCaffe code]](https://github.com/weiliu89/caffe/tree/ssd), [[TensorFlow]](https://github.com/balancap/SSD-Tensorflow), [[Keras]](https://github.com/rykov8/ssd_keras)
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [[TensorFlow]](https://github.com/CharlesShang/FastMaskRCNN), [[PyTorch]](https://github.com/felixgwu/mask_rcnn_pytorch)
+
+
+
+## Pose Estimation
+
+### Pose Estimation
+* [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) - Z. Cao et al, CVPR2017. [[code]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
