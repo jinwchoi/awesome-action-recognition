@@ -61,6 +61,7 @@ Jinwoo's list of Computer Vision and Machine Learning papers, codes, project web
 * [Two-Stream(RGB and Flow) Pretrained Model Weights](https://github.com/craftGBD/caffe-GBD/tree/master/models/action_recognition)
 
 ### Action Recognition Datasets
+* [AVA](https://arxiv.org/abs/1705.08421)
 * [ActivityNet](http://activity-net.org/) Note: They provide a download script and evaluation code [here](https://github.com/activitynet) .
 * [Charades](http://allenai.org/plato/charades/)
 * [THUMOS14](http://crcv.ucf.edu/THUMOS14/) Note: It overlaps with [UCF-101](http://crcv.ucf.edu/data/UCF101.php) dataset. 
