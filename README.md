@@ -1,6 +1,7 @@
-# Computer Vision and Machine Learing papers, codes, and project webpages
+# Action Recognition
 
-Jinwoo's list of Computer Vision and Machine Learning papers, codes, project webs and others.
+A curated list of awesome action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by awesome-computer-vision[[https://github.com/jbhuang0604/awesome-computer-vision]].
+
 
 ## Table of Contents
 
