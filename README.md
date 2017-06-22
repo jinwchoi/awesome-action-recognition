@@ -62,6 +62,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Two-Stream(RGB and Flow) Pretrained Model Weights](https://github.com/craftGBD/caffe-GBD/tree/master/models/action_recognition)
 
 ### Action Recognition Datasets
+* [20BN-JESTER](https://www.twentybn.com/datasets/jester), [20BN-SOMETHING-SOMETHING](https://www.twentybn.com/datasets/something-something)
 * [AVA](https://arxiv.org/abs/1705.08421)
 * [ActivityNet](http://activity-net.org/) Note: They provide a download script and evaluation code [here](https://github.com/activitynet) .
 * [Charades](http://allenai.org/plato/charades/)
