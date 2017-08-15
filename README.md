@@ -2,9 +2,9 @@
 A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Contents
- - [Action Recognition](#ar)
- - [Object Recognition](#or)
- - [Pose Estimation](#pe)
+ - [Action Recognition](#action-recognition)
+ - [Object Recognition](#object-recognition)
+ - [Pose Estimation](#pose-estimation)
 
 ## Action Recognition
 
