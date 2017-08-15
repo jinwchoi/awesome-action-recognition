@@ -115,4 +115,4 @@ To the extent possible under law, [Jinwoo Choi](https://sites.google.com/site/jc
 
 
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/jinwchoi/Action-Recognition/pulls) or email (jinchoi@vt.edu) to add links.
+Please read the [contribution guidelines](contributing.md). Then please feel free to send me [pull requests](https://github.com/jinwchoi/Action-Recognition/pulls) or email (jinchoi@vt.edu) to add links. 
