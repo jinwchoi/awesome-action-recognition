@@ -81,6 +81,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://arxiv.org/pdf/1604.06573.pdf) - C. Feichtenhofer et al, CVPR2016. [[code]](https://github.com/feichtenhofer/twostreamfusion)
 
 ### Video Representation
+* [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248.pdf) - D. Tran et al., CVPR2018. [[code]](https://github.com/facebookresearch/R2Plus1D)
 * [Attend and Interact: Higher-Order Object Interactions for Video Understanding](https://arxiv.org/abs/1711.06330) - CY. Ma et al., CVPR 2018.
 * [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971) - X. Wang et al., CVPR2018. [[code]](https://github.com/facebookresearch/video-nonlocal-net)
 * [Rethinking Spatiotemporal Feature Learning For Video Understanding](https://arxiv.org/pdf/1712.04851.pdf) - S. Xie et al., arXiv2017. 
