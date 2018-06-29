@@ -79,6 +79,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Real-time Action Recognition with Enhanced Motion Vector CNNs](http://arxiv.org/abs/1604.07669) - B. Zhang et al, CVPR2016. [[code]](https://github.com/zbwglory/MV-release)
 * [Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Action_Recognition_With_2015_CVPR_paper.pdf) - L. Wang et al, CVPR2015. [[code]](https://github.com/wanglimin/TDD)
 * [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://arxiv.org/pdf/1604.06573.pdf) - C. Feichtenhofer et al, CVPR2016. [[code]](https://github.com/feichtenhofer/twostreamfusion)
+* [Two-Stream Convolutional Networks for Action Recognition in Videos](http://www.robots.ox.ac.uk/~vgg/publications/2014/Simonyan14b/simonyan14b.pdf.pdf) - K. Simonyan and A. Zisserman, NIPS2014.
 
 ### Video Representation
 * [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248.pdf) - D. Tran et al., CVPR2018. [[code]](https://github.com/facebookresearch/R2Plus1D)
