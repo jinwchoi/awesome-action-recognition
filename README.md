@@ -119,6 +119,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [LIRIS-HARL](http://liris.cnrs.fr/voir/activities-dataset/)
 * [KTH](http://www.nada.kth.se/cvap/actions/)
 * [MSR Action](https://www.microsoft.com/en-us/download/details.aspx?id=52315) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
+* [Sports Videos in the Wild](http://cvlab.cse.msu.edu/project-svw.html)
 
 ### Video Annotation
 * [Efficiently scaling up crowdsourced video annotation](http://cvrr.ucsd.edu/ece285/Spring2014/papers/Vondrick_IJCV2013.pdf) - C. Vondrick et. al, IJCV2013. [[code]](https://github.com/cvondrick/vatic)
