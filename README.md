@@ -14,7 +14,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Video Representation
 * [Videos as Space-Time Region Graphs](https://arxiv.org/pdf/1806.01810.pdf) - X. Wang and A. Gupta, ECCV2018.
-* [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248.pdf) - D. Tran et al., CVPR2018. [[code]](https://github.com/facebookresearch/R2Plus1D)
+* [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248.pdf) - D. Tran et al., CVPR2018. [[code]](https://github.com/facebookresearch/R2Plus1D) [[PyTorch]](https://github.com/irhumshafkat/R2Plus1D-PyTorch)
 * [Attend and Interact: Higher-Order Object Interactions for Video Understanding](https://arxiv.org/abs/1711.06330) - CY. Ma et al., CVPR 2018.
 * [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971) - X. Wang et al., CVPR2018. [[code]](https://github.com/facebookresearch/video-nonlocal-net)
 * [Rethinking Spatiotemporal Feature Learning For Video Understanding](https://arxiv.org/pdf/1712.04851.pdf) - S. Xie et al., arXiv2017. 
