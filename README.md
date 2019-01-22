@@ -13,6 +13,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 
 ### Video Representation
+* [Temporal Relational Reasoning in Videos](https://arxiv.org/pdf/1711.08496.pdf) - B. Zhou et al., ECCV2018. [[code]](https://github.com/metalbubble/TRN-pytorch) [[project web]](http://relation.csail.mit.edu/)
 * [Action Recognition Zoo](https://github.com/coderSkyChen/Action_Recognition_Zoo) - 
 Codes for popular action recognition models, written based on pytorch, verified on the something-something dataset.
 * [Videos as Space-Time Region Graphs](https://arxiv.org/pdf/1806.01810.pdf) - X. Wang and A. Gupta, ECCV2018.
