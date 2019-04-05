@@ -17,7 +17,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Action Recognition Zoo](https://github.com/coderSkyChen/Action_Recognition_Zoo) - 
 Codes for popular action recognition models, written based on pytorch, verified on the something-something dataset.
 * [Videos as Space-Time Region Graphs](https://arxiv.org/pdf/1806.01810.pdf) - X. Wang and A. Gupta, ECCV2018.
-* [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?] - K. Hara et al., CVPR2019. [[code]](https://github.com/kenshohara/3D-ResNets-PyTorch)
+* [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf) - K. Hara et al., CVPR2019. [[code]](https://github.com/kenshohara/3D-ResNets-PyTorch)
 * [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248.pdf) - D. Tran et al., CVPR2018. [[code]](https://github.com/facebookresearch/R2Plus1D) [[PyTorch]](https://github.com/irhumshafkat/R2Plus1D-PyTorch)
 * [Attend and Interact: Higher-Order Object Interactions for Video Understanding](https://arxiv.org/abs/1711.06330) - CY. Ma et al., CVPR 2018.
 * [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971) - X. Wang et al., CVPR2018. [[code]](https://github.com/facebookresearch/video-nonlocal-net)
