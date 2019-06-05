@@ -134,6 +134,8 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [KTH](http://www.nada.kth.se/cvap/actions/)
 * [MSR Action](https://www.microsoft.com/en-us/download/details.aspx?id=52315) Note: It overlaps with [KTH](http://www.nada.kth.se/cvap/actions/) datset.
 * [Sports Videos in the Wild](http://cvlab.cse.msu.edu/project-svw.html)
+* [NTU RGB+D](https://github.com/shahroudy/NTURGB-D)
+* [Mixamo Mocap Dataset](http://mocap.cs.cmu.edu/)
 
 ### Video Annotation
 * [Efficiently scaling up crowdsourced video annotation](http://cvrr.ucsd.edu/ece285/Spring2014/papers/Vondrick_IJCV2013.pdf) - C. Vondrick et. al, IJCV2013. [[code]](https://github.com/cvondrick/vatic)
