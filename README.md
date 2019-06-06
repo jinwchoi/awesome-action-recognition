@@ -2,11 +2,11 @@
 A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Contents
- - [Action Recognition](#action-recognition)
+ - [Action Recognition and Video Understanding](#action-recognition-and-video-understanding)
  - [Object Recognition](#object-recognition)
  - [Pose Estimation](#pose-estimation)
 
-## Action Recognition
+## Action Recognition and Video Understanding
 
 ### Summary posts
 * [Deep Learning for Videos: A 2018 Guide to Action Recognition](http://blog.qure.ai/notes/deep-learning-for-videos-action-recognition-review) - Summary of major landmark action recognition research papers till 2018
