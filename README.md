@@ -17,6 +17,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/pdf/1904.02811.pdf) - D. Tran et al., arXiv2019.
 * [DistInit: Learning Video Representations without a Single Labeled Video](https://arxiv.org/pdf/1901.09244.pdf) - R. Girdhar et al., arXiv2019.
 * [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - R. Girdhar et al., CVPR2019. [[project web]](https://rohitgirdhar.github.io/ActionTransformer/)
+* [Learning Correspondence from the Cycle-consistency of Time](https://arxiv.org/pdf/1903.07593.pdf) - X. Wang et al., CVPR2019. [[code]](https://github.com/xiaolonw/TimeCycle) [[project web]](https://ajabri.github.io/timecycle/)
 * [Representation Flow for Action Recognition](https://arxiv.org/pdf/1810.01455.pdf) - AJ. Piergiovanni and M. S. Ryoo et al., CVPR2019.
 * [Collaborative Spatiotemporal Feature Learning for Video Action Recognition](https://arxiv.org/pdf/1903.01197.pdf) - C. Li et al., CVPR2019. 
 * [Learning Video Representations from Correspondence Proposals](https://arxiv.org/pdf/1905.07853.pdf) - X. Liu et al., CVPR2019.
