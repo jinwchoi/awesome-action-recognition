@@ -24,7 +24,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [Learning Video Representations from Correspondence Proposals](https://arxiv.org/pdf/1905.07853.pdf) - X. Liu et al., CVPR2019.
 * [Timeception for Complex Action Recognition](https://arxiv.org/pdf/1812.01289.pdf) - N. Hussein et al., CVPR2019.
 * [The Visual Centrifuge: Model-Free Layered Video Representations](https://arxiv.org/pdf/1812.01461.pdf) - J.-B. Alayrac et al., CVPR2019.
-* [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - C.-Y. Wu. et al., CVPR2019.
+* [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - C.-Y. Wu. et al., CVPR2019. [[code]](https://github.com/facebookresearch/video-long-term-feature-banks/)
 * [Temporal Relational Reasoning in Videos](https://arxiv.org/pdf/1711.08496.pdf) - B. Zhou et al., ECCV2018. [[code]](https://github.com/metalbubble/TRN-pytorch) [[project web]](http://relation.csail.mit.edu/)
 * [Action Recognition Zoo](https://github.com/coderSkyChen/Action_Recognition_Zoo) - 
 Codes for popular action recognition models, written based on pytorch, verified on the something-something dataset.
