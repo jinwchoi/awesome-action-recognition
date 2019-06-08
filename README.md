@@ -52,6 +52,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [[Inflated models on PyTorch]](https://github.com/hassony2/inflated_convnets_pytorch)
 * [[I3D models transfered from Tensorflow to PyTorch]](https://github.com/hassony2/kinetics_i3d_pytorch)
 * [[A Two Stream Baseline on Kinectics dataset]](https://github.com/gurkirt/2D-kinectics)
+* [[PyVideoResearch]](https://github.com/gsig/PyVideoResearch)
 
 ### Action Classification
 * [Neural Graph Matching Networks for Fewshot 3D Action Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf) - M. Guo et al., ECCV2018.
