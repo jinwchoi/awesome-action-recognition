@@ -157,6 +157,9 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [Sports Videos in the Wild](http://cvlab.cse.msu.edu/project-svw.html)
 * [NTU RGB+D](https://github.com/shahroudy/NTURGB-D)
 * [Mixamo Mocap Dataset](http://mocap.cs.cmu.edu/)
+* [UWA3D Multiview Activity II Dataset](http://staffhome.ecm.uwa.edu.au/~00053650/databases.html)
+* [Northwestern-UCLA Dataset](https://users.eecs.northwestern.edu/~jwa368/my_data.html)
+* [SYSU 3D Human-Object Interaction Dataset](http://www.isee-ai.cn/~hujianfang/ProjectJOULE.html)
 
 ### Video Annotation
 * [Efficiently scaling up crowdsourced video annotation](http://cvrr.ucsd.edu/ece285/Spring2014/papers/Vondrick_IJCV2013.pdf) - C. Vondrick et. al, IJCV2013. [[code]](https://github.com/cvondrick/vatic)
