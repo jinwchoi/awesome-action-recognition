@@ -13,6 +13,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 
 ### Video Representation
+* [Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition](https://papers.nips.cc/paper/8372-why-cant-i-dance-in-the-mall-learning-to-mitigate-scene-bias-in-action-recognition.pdf) - J. Choi et al., NeurIPS2019. [[project web]](http://chengao.vision/SDN/) [[code]](https://github.com/vt-vl-lab/SDN) [[arXiv]](https://arxiv.org/abs/1912.05534)
 * [Large-scale weakly-supervised pre-training for video action recognition](https://research.fb.com/wp-content/uploads/2019/05/Large-scale-weakly-supervised-pre-training-for-video-action-recognition.pdf?) - D. Ghadiyaram et al., arXiv2019.
 * [Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/pdf/1904.02811.pdf) - D. Tran et al., arXiv2019.
 * [DistInit: Learning Video Representations without a Single Labeled Video](https://arxiv.org/pdf/1901.09244.pdf) - R. Girdhar et al., arXiv2019.
