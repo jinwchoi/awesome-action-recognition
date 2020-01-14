@@ -216,7 +216,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 ## Competitions
 
 ### Competitions
-* [ActEV](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021.
+* [ActEV (Activities in Extended Video](https://actev.nist.gov/sdl) - Activity detection in security camera videos. Runs through 2021. Hosted by NIST.
 
 ## Licenses
 License
