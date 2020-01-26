@@ -142,6 +142,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [Two-Stream (RGB and Flow) pretrained model weights](https://github.com/craftGBD/caffe-GBD/tree/master/models/action_recognition)
 
 ### Action Recognition Datasets
+* [Video Dataset Overview from Antoine Miech](https://www.di.ens.fr/~miech/datasetviz/)
 * [HACS](http://hacs.csail.mit.edu/) 
 * [Moments in Time](http://moments.csail.mit.edu/), [paper](http://moments.csail.mit.edu/data/moments_paper.pdf)
 * [AVA](https://research.google.com/ava/), [paper](https://arxiv.org/abs/1705.08421), [[INRIA web]](http://thoth.inrialpes.fr/ava/getava.php) for missing videos
