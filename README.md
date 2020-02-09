@@ -15,6 +15,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Video Representation
 * [Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition](https://papers.nips.cc/paper/8372-why-cant-i-dance-in-the-mall-learning-to-mitigate-scene-bias-in-action-recognition.pdf) - J. Choi et al., NeurIPS2019. [[project web]](http://chengao.vision/SDN/) [[code]](https://github.com/vt-vl-lab/SDN) [[arXiv]](https://arxiv.org/abs/1912.05534)
+* [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) - C. Feichtenhofer et al., ICCV2019. [[code]](https://github.com/facebookresearch/SlowFast)
 * [Large-scale weakly-supervised pre-training for video action recognition](https://research.fb.com/wp-content/uploads/2019/05/Large-scale-weakly-supervised-pre-training-for-video-action-recognition.pdf?) - D. Ghadiyaram et al., arXiv2019.
 * [Video Classification with Channel-Separated Convolutional Networks](https://arxiv.org/pdf/1904.02811.pdf) - D. Tran et al., arXiv2019.
 * [DistInit: Learning Video Representations without a Single Labeled Video](https://arxiv.org/pdf/1901.09244.pdf) - R. Girdhar et al., arXiv2019.
@@ -55,6 +56,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [[I3D models transfered from Tensorflow to PyTorch]](https://github.com/hassony2/kinetics_i3d_pytorch)
 * [[A Two Stream Baseline on Kinectics dataset]](https://github.com/gurkirt/2D-kinectics)
 * [[MMAction]](https://github.com/open-mmlab/mmaction)
+* [[PySlowFast]](https://github.com/facebookresearch/slowfast)
 
 ### Action Classification
 * [Neural Graph Matching Networks for Fewshot 3D Action Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf) - M. Guo et al., ECCV2018.
