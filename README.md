@@ -57,6 +57,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [[A Two Stream Baseline on Kinectics dataset]](https://github.com/gurkirt/2D-kinectics)
 * [[MMAction]](https://github.com/open-mmlab/mmaction)
 * [[PySlowFast]](https://github.com/facebookresearch/slowfast)
+* [[Decord]](https://github.com/dmlc/decord) Efficient video reader for python
 
 ### Action Classification
 * [Neural Graph Matching Networks for Fewshot 3D Action Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Neural_Graph_Matching_ECCV_2018_paper.pdf) - M. Guo et al., ECCV2018.
