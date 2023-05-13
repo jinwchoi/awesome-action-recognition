@@ -57,6 +57,7 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [[I3D models transfered from Tensorflow to PyTorch]](https://github.com/hassony2/kinetics_i3d_pytorch)
 * [[A Two Stream Baseline on Kinectics dataset]](https://github.com/gurkirt/2D-kinectics)
 * [[MMAction]](https://github.com/open-mmlab/mmaction)
+* [[MMAction2]](https://github.com/open-mmlab/mmaction2)
 * [[PySlowFast]](https://github.com/facebookresearch/slowfast)
 * [[Decord]](https://github.com/dmlc/decord) Efficient video reader for python
 * [[I3D models converted from Tensorflow to Core ML]](https://github.com/lukereichold/VisualActionKit)
