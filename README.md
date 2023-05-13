@@ -48,6 +48,8 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/pdf/1608.00859.pdf) - L. Wang et al, arXiv 2016. [[code]](https://github.com/yjxiong/temporal-segment-networks)
 * [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://arxiv.org/pdf/1604.06573.pdf) - C. Feichtenhofer et al, CVPR2016. [[code]](https://github.com/feichtenhofer/twostreamfusion)
 * [Two-Stream Convolutional Networks for Action Recognition in Videos](http://www.robots.ox.ac.uk/~vgg/publications/2014/Simonyan14b/simonyan14b.pdf.pdf) - K. Simonyan and A. Zisserman, NIPS2014.
+* [Temporal Recurrent Networks for Online Action Detection](https://arxiv.org/pdf/1811.07391.pdf) - M. Xu et al, ICCV2019. [[code]](https://github.com/xumingze0308/TRN.pytorch)
+* [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/pdf/2107.03377.pdf) - M. Xu et al, Neurips2021. [[code]](https://github.com/amazon-research/long-short-term-transformer)
 
 #### Useful Code Repos on Video Representation Learning
 * [[3D ResNet PyTorch]](https://github.com/kenshohara/3D-ResNets-PyTorch)
