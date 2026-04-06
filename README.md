@@ -1,6 +1,7 @@
 # Awesome Action Recognition: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for action recognition workflow orchestration, automated video analysis management, and multi-agent coordination. MIT licensed.
 ## Contents
  - [Action Recognition and Video Understanding](#action-recognition-and-video-understanding)
  - [Object Recognition](#object-recognition)
