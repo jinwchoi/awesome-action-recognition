@@ -51,6 +51,8 @@ Codes for popular action recognition models, written based on pytorch, verified 
 * [Temporal Recurrent Networks for Online Action Detection](https://arxiv.org/pdf/1811.07391.pdf) - M. Xu et al, ICCV2019. [[code]](https://github.com/xumingze0308/TRN.pytorch)
 * [Long Short-Term Transformer for Online Action Detection](https://arxiv.org/pdf/2107.03377.pdf) - M. Xu et al, Neurips2021. [[code]](https://github.com/amazon-research/long-short-term-transformer)
 
+* [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) — I3D-ViT video representation with 16× spatiotemporal compression and fine-grained motion understanding. [[Code]](https://github.com/MCG-NJU/VideoChat3)
+
 #### Useful Code Repos on Video Representation Learning
 * [[3D ResNet PyTorch]](https://github.com/kenshohara/3D-ResNets-PyTorch)
 * [[PyTorch Video Research]](https://github.com/gsig/PyVideoResearch)
